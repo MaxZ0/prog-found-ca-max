@@ -1,3 +1,5 @@
+//i forgot to call it level 1. but it is level 1. Why they keep telling this stuff at the end of the assigment.
+
 //Level 1
 //Question 1. Declare and initialise a variable with a string value
 var name = ("Max");
